@@ -1,6 +1,6 @@
 # Stock-Picking-App
 
-> Project description
+> This app will present the stock price, analyst rating, and some other financial analysis.
 
 ## Related Projects
 
